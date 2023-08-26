@@ -1,0 +1,8 @@
+C:\Couses\OOP 2 Lab\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Couses\OOP 2 Lab\Aggregation\bin\Debug\Aggregation.exe
+C:\Couses\OOP 2 Lab\Aggregation\bin\Debug\Aggregation.pdb
+C:\Couses\OOP 2 Lab\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
+C:\Couses\OOP 2 Lab\Aggregation\obj\Debug\Aggregation.csproj.SuggestedBindingRedirects.cache
+C:\Couses\OOP 2 Lab\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Couses\OOP 2 Lab\Aggregation\obj\Debug\Aggregation.exe
+C:\Couses\OOP 2 Lab\Aggregation\obj\Debug\Aggregation.pdb

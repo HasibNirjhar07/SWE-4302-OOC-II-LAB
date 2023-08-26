@@ -1,0 +1,8 @@
+C:\Couses\OOP 2 Lab\Lab Task 2\bin\Debug\Lab Task 2.exe.config
+C:\Couses\OOP 2 Lab\Lab Task 2\bin\Debug\Lab Task 2.exe
+C:\Couses\OOP 2 Lab\Lab Task 2\bin\Debug\Lab Task 2.pdb
+C:\Couses\OOP 2 Lab\Lab Task 2\obj\Debug\Lab Task 2.csproj.AssemblyReference.cache
+C:\Couses\OOP 2 Lab\Lab Task 2\obj\Debug\Lab Task 2.csproj.SuggestedBindingRedirects.cache
+C:\Couses\OOP 2 Lab\Lab Task 2\obj\Debug\Lab Task 2.csproj.CoreCompileInputs.cache
+C:\Couses\OOP 2 Lab\Lab Task 2\obj\Debug\Lab Task 2.exe
+C:\Couses\OOP 2 Lab\Lab Task 2\obj\Debug\Lab Task 2.pdb

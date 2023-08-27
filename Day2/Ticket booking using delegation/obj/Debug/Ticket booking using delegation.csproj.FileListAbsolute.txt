@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\bin\Debug\Ticket booking using delegation.exe.config
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\bin\Debug\Ticket booking using delegation.exe
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\bin\Debug\Ticket booking using delegation.pdb
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\obj\Debug\Ticket booking using delegation.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\obj\Debug\Ticket booking using delegation.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\obj\Debug\Ticket booking using delegation.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\obj\Debug\Ticket booking using delegation.exe
+C:\SWE-4302-OOC-II-LAB\Day2\Ticket booking using delegation\obj\Debug\Ticket booking using delegation.pdb

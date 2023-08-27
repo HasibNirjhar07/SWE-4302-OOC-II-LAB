@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\bin\Debug\Printing Application.exe.config
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\bin\Debug\Printing Application.exe
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\bin\Debug\Printing Application.pdb
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\obj\Debug\Printing Application.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\obj\Debug\Printing Application.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\obj\Debug\Printing Application.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\obj\Debug\Printing Application.exe
+C:\SWE-4302-OOC-II-LAB\Day2\Printing Application\obj\Debug\Printing Application.pdb

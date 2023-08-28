@@ -15,15 +15,15 @@ namespace Printing_Application
         this.PageType = pagetype;
         
         }
-        public override void PrintColor()
+        public override void PrintColor(string Content)
         {
-            Console.WriteLine($"Epson printer prints in black and white on {PageType}");
+            Console.WriteLine($"Epson printer prints in black and white on {PageType} and the typed content is {Content}");
 
         }
 
-        public override void Printside()
+        public override void Printside(string Content)
         {
-            Console.WriteLine("Epson printer prints on both sides");
+            Console.WriteLine($"Epson printer prints on both sides and the typed content is {Content}");
         }
 
 

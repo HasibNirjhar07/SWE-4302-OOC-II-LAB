@@ -22,9 +22,9 @@ namespace Printing_Application
         
         }
 
-        public abstract void PrintColor();
+        public abstract void PrintColor(string Content);
 
-        public abstract void Printside();
+        public abstract void Printside(string Content);
 
 
 

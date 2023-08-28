@@ -8,7 +8,7 @@ namespace Printing_Application
 {
     public interface IPrinter
     {
-        void PrintColor();
-        void Printside();
+        void PrintColor(string Content);
+        void Printside(string Content);
     }
 }

@@ -13,9 +13,11 @@ namespace Printing_Application
             Printer printer = new EpsonPrinter(PageType.A3);
             PrintController printController = new PrintController();
 
-            printController.Print(printer);
+            string Content="I have a car";
+
+            printController.Print("I have a car",printer);
             Printer printer1=new CannonPrinter(PageType.A4);
-            printController.Print(printer1);
+            printController.Print("I have a bike",printer1);
             Console.ReadLine();
         }
     }

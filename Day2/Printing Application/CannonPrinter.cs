@@ -13,13 +13,13 @@ namespace Printing_Application
         {
             this.PageType = type;
         }
-        public override void PrintColor()
+        public override void PrintColor(string Content)
         {
-            Console.WriteLine($"Cannon Printer is printing in color on {PageType}");
+            Console.WriteLine($"Cannon Printer is printing in color on {PageType} and the typed content is{Content}");
         }
-        public override void Printside()
+        public override void Printside(string Content)
         {
-            Console.WriteLine("Cannon Printer is printing on both sides");
+            Console.WriteLine($"Cannon Printer is printing on both sides and the typed content is {Content}");
         }
     }
  

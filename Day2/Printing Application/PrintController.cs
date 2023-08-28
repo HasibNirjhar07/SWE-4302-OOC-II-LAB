@@ -8,10 +8,14 @@ namespace Printing_Application
 {
     public class PrintController
     {
-        public void Print(Printer printer)
+        public string Content { get; set; }
+  
+        
+        
+        public void Print(string Content,Printer printer)
         {
-            printer.PrintColor();
-            printer.Printside();
+            printer.PrintColor(Content);
+            printer.Printside(Content);
         }
 
     }

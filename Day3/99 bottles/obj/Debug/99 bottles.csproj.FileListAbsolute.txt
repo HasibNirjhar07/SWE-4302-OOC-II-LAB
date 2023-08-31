@@ -1,8 +1,0 @@
-C:\Couses\OOP 2 Lab\99 bottles\bin\Debug\99 bottles.exe.config
-C:\Couses\OOP 2 Lab\99 bottles\bin\Debug\99 bottles.exe
-C:\Couses\OOP 2 Lab\99 bottles\bin\Debug\99 bottles.pdb
-C:\Couses\OOP 2 Lab\99 bottles\obj\Debug\99 bottles.csproj.AssemblyReference.cache
-C:\Couses\OOP 2 Lab\99 bottles\obj\Debug\99 bottles.csproj.SuggestedBindingRedirects.cache
-C:\Couses\OOP 2 Lab\99 bottles\obj\Debug\99 bottles.csproj.CoreCompileInputs.cache
-C:\Couses\OOP 2 Lab\99 bottles\obj\Debug\99 bottles.exe
-C:\Couses\OOP 2 Lab\99 bottles\obj\Debug\99 bottles.pdb

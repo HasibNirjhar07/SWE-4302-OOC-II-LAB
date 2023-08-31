@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\bin\Debug\VehicleApp.exe.config
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\bin\Debug\VehicleApp.exe
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\bin\Debug\VehicleApp.pdb
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\obj\Debug\VehicleApp.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\obj\Debug\VehicleApp.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\obj\Debug\VehicleApp.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\obj\Debug\VehicleApp.exe
+C:\SWE-4302-OOC-II-LAB\Day2\VehicleApp\obj\Debug\VehicleApp.pdb

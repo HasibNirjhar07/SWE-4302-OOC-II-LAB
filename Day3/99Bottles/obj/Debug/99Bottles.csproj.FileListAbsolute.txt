@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\bin\Debug\99Bottles.exe.config
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\bin\Debug\99Bottles.exe
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\bin\Debug\99Bottles.pdb
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\obj\Debug\99Bottles.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\obj\Debug\99Bottles.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\obj\Debug\99Bottles.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\obj\Debug\99Bottles.exe
+C:\SWE-4302-OOC-II-LAB\Day2\99Bottles\obj\Debug\99Bottles.pdb

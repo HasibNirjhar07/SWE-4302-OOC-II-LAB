@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\bin\Debug\SHapeDrawer.exe.config
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\bin\Debug\SHapeDrawer.exe
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\bin\Debug\SHapeDrawer.pdb
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\obj\Debug\SHapeDrawer.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\obj\Debug\SHapeDrawer.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\obj\Debug\SHapeDrawer.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\obj\Debug\SHapeDrawer.exe
+C:\SWE-4302-OOC-II-LAB\Day5\ShapeDrawerAppWithOCP\SHapeDrawer\obj\Debug\SHapeDrawer.pdb

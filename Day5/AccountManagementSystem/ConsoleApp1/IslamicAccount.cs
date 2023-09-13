@@ -13,27 +13,62 @@ namespace ConsoleApp1
         }
         public override void Withdraw(double amount)
         {
-            if (Balance > 200 && amount <= Balance && amount <= 10000)
+            //if (Balance > 200 && amount <= Balance && amount <= 10000)
+            //{
+            //    Balance -= amount;
+            //    Console.WriteLine("Withdrawn successfully");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid amount");
+            //}
+
+            //usingException
+            try
             {
-                Balance -= amount;
-                Console.WriteLine("Withdrawn successfully");
+                if (Balance > 200 && amount <= Balance && amount <= 10000)
+                {
+                    Balance -= amount;
+                    Console.WriteLine("Withdrawn successfully");
+                }
+                else
+                {
+                    throw new Exception("Invalid amount");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Console.WriteLine("Invalid amount");
+                Console.WriteLine(e.Message);
             }
         }
         public override void Deposit(double amount)
         {
-            if (amount > 0)
+            //if (amount > 0)
+            //{
+            //    Balance += amount;
+            //    Console.WriteLine("Deposited successfully");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid amount");
+            //}
+            //usingException
+            try
             {
-                Balance += amount;
-                Console.WriteLine("Deposited successfully");
+                if (amount > 0)
+                {
+                    Balance += amount;
+                    Console.WriteLine("Deposited successfully");
+                }
+                else
+                {
+                    throw new Exception("Invalid amount");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Console.WriteLine("Invalid amount");
-            }
+                Console.WriteLine(e.Message);
+            }   
         }
         public override void BalanceCheck()
         {
@@ -41,7 +76,17 @@ namespace ConsoleApp1
         }
         public override double Getinterest(double amount)
         {
-            throw new NotImplementedException();
+           //accountNotSuitableforinterest
+           //usingException
+            try
+            {
+                throw new Exception("Account not suitable for interest");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            return 0;
             
         }
     }

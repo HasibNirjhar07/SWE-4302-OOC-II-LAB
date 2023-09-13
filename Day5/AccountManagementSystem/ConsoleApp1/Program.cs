@@ -10,10 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Account[] accounts = new Account[2];
+            Account[] accounts = new Account[3];
             accounts[0] = new Current_Account(1, "Rahim", 10000, "Rahim");
             accounts[1] = new Saving_Account(2, "Karim", 20000, "Karim");
-            //accounts[2] = new IslamicAccount(3, "Rahman", 30000, "Rahman");
+            accounts[2] = new IslamicAccount(3, "Rahman", 30000, "Rahman");
     
                 foreach (Account account in accounts)
             {

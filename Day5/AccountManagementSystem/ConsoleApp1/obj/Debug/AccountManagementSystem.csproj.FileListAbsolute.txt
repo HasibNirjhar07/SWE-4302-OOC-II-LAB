@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\obj\Debug\AccountManagementSystem.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\obj\Debug\AccountManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\obj\Debug\AccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\SWE-4302-OOC-II-LAB\Day5\AccountManagementSystem\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -13,17 +13,7 @@ namespace ConsoleApp1
             }
         public override void Withdraw(double amount)
         {
-            //    if (Balance > 1000 && amount <= Balance && amount <= 15000)
-            //{
-            //        Balance -= amount;
-            //        Console.WriteLine("Withdrawn successfully");
-            //    }
-            //    else
-            //{
-            //        Console.WriteLine("Invalid amount");
-            //    }
-            //}
-            //usingException
+         
             try
             {
                 if (Balance > 1000 && amount <= Balance && amount <= 15000)
@@ -43,18 +33,8 @@ namespace ConsoleApp1
         }
         public override void Deposit(double amount)
         {
-            //    if (amount > 0)
-            //{
-            //        Balance += amount;
-            //        Console.WriteLine("Deposited successfully");
-            //    }
-            //    else
-            //{
-            //        Console.WriteLine("Invalid amount");
-            //    }
-            //}
-
-            //usingException
+            
+       
             try
             {
                 if (amount > 0)

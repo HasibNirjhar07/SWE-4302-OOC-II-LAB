@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\bin\Debug\Stack.exe.config
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\bin\Debug\Stack.exe
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\bin\Debug\Stack.pdb
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\obj\Debug\Stack.exe
+C:\SWE-4302-OOC-II-LAB\Day6\Stack\obj\Debug\Stack.pdb

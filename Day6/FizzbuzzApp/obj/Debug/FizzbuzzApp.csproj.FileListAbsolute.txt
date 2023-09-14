@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\bin\Debug\FizzbuzzApp.exe.config
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\bin\Debug\FizzbuzzApp.exe
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\bin\Debug\FizzbuzzApp.pdb
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\obj\Debug\FizzbuzzApp.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\obj\Debug\FizzbuzzApp.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\obj\Debug\FizzbuzzApp.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\obj\Debug\FizzbuzzApp.exe
+C:\SWE-4302-OOC-II-LAB\Day6\FizzbuzzApp\obj\Debug\FizzbuzzApp.pdb

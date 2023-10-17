@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+C:\SWE-4302-OOC-II-LAB\Day7\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb

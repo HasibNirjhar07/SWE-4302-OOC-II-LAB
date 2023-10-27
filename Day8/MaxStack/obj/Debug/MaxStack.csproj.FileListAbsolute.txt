@@ -1,0 +1,8 @@
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\bin\Debug\MaxStack.exe.config
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\bin\Debug\MaxStack.exe
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\bin\Debug\MaxStack.pdb
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\obj\Debug\MaxStack.csproj.AssemblyReference.cache
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\obj\Debug\MaxStack.csproj.SuggestedBindingRedirects.cache
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\obj\Debug\MaxStack.csproj.CoreCompileInputs.cache
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\obj\Debug\MaxStack.exe
+C:\SWE-4302-OOC-II-LAB\Day8\MaxStack\obj\Debug\MaxStack.pdb
